@@ -2,10 +2,10 @@ import { motion } from 'motion/react';
 import { useEffect, useState } from 'react';
 
 const PHOTOS = [
-  'https://picsum.photos/seed/panguuu1/400/500',
-  'https://picsum.photos/seed/panguuu2/400/500',
-  'https://picsum.photos/seed/panguuu3/400/500',
-  'https://picsum.photos/seed/panguuu4/400/500',
+  '/photos/her fav pic.jpeg',
+  '/photos/self.jpg',
+  '/photos/beautyqueen pic.jpg',
+  '/photos/myfav pic.jpg',
 ];
 
 export default function PoppingPolaroids() {

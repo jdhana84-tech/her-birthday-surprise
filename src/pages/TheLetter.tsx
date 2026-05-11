@@ -14,37 +14,37 @@ const PAGES: PageContent[] = [
   {
     title: "Happy Birthday, Panguuu 💖",
     body: "I honestly don’t know where to start… because some people become so special that words never feel enough for them. From random conversations to unforgettable memories, you slowly became one of the most beautiful parts of my life.",
-    image: "https://images.unsplash.com/photo-1518199266791-5375a83190b7"
+    image: "/photos/beautyqueen pic.jpeg"
   },
   {
     title: "The Light You Bring",
     body: "You brought happiness in moments where I least expected it. Even your smallest presence somehow made everything feel lighter, calmer, and brighter. There are people we meet… and then there are people who quietly become home. For me, you are that person 🌸",
-    image: "https://images.unsplash.com/photo-1516589174184-e6646f674c4a"
+    image: "/photos/our first pic.jpeg"
   },
   {
     title: "A Rare Soul",
     body: "Every laugh, every silly moment, every late-night talk, every memory with you became something I’ll always treasure. You are genuinely one of the rarest souls I’ve ever known. Your smile carries warmth. Your heart carries kindness ✨",
-    image: "https://images.unsplash.com/photo-1518895949257-7621c3c786d7"
+    image: "/photos/we three pic.jpeg"
   },
   {
     title: "My Hope For You",
     body: "No matter how life changes, I hope you always remember how special you are. I hope your dreams come true. I hope happiness follows you everywhere. I hope you always smile the way you make others smile.",
-    image: "https://images.unsplash.com/photo-1530103862676-de8c9debad1d"
+    image: "/photos/her fav pic.jpeg"
   },
   {
     title: "Deep Gratitude",
     body: "And honestly… thank you. Thank you for existing. Thank you for the memories. Thank you for being you 💖 If life gives us thousands more moments together, I’ll cherish every single one of them.",
-    image: "https://images.unsplash.com/photo-1494976388531-d1058494cdd8"
+    image: "/photos/black.jpeg"
   },
   {
     title: "Celebrating You",
     body: "So today, on your birthday… I just want you to feel loved, appreciated, and truly celebrated 🌙 Because someone like you deserves nothing less than the universe itself 🌌 Happy Birthday once again, Panguuu ✨",
-    image: "https://images.unsplash.com/photo-1513151233558-d860c5398176"
+    image: "/photos/myfav pic.jpeg"
   },
   {
     title: "Always Grateful",
     body: "No matter what happens… I’ll always be grateful for you 🌸",
-    image: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b"
+    image: "/photos/3.jpeg"
   }
 ];
 

@@ -258,13 +258,13 @@ function FloatingMatter() {
 
 function MemoryUniverse() {
   const images = [
-    "https://images.unsplash.com/photo-1518199266791-5375a83190b7",
-    "https://images.unsplash.com/photo-1516589174184-e6646f674c4a",
-    "https://images.unsplash.com/photo-1518895949257-7621c3c786d7",
-    "https://images.unsplash.com/photo-1530103862676-de8c9debad1d",
-    "https://images.unsplash.com/photo-1494976388531-d1058494cdd8",
-    "https://images.unsplash.com/photo-1513151233558-d860c5398176"
-  ];
+  "/photos/beautyqueen pic.jpeg",
+  "/photos/black.jpeg",
+  "/photos/her fav pic.jpeg",
+  "/photos/myfav pic.jpeg",
+  "/photos/self.jpeg",
+  "/photos/cute pic.jpeg"
+];
 
   return (
     <div className="relative w-full h-full flex items-center justify-center">
