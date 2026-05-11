@@ -3,9 +3,9 @@ import { useEffect, useState } from 'react';
 
 const PHOTOS = [
   '/photos/her fav pic.jpeg',
-  '/photos/self.jpg',
-  '/photos/beautyqueen pic.jpg',
-  '/photos/myfav pic.jpg',
+  '/photos/self.jpeg',
+  '/photos/beautyqueen pic.jpeg',
+  '/photos/myfav pic.jpeg',
 ];
 
 export default function PoppingPolaroids() {
