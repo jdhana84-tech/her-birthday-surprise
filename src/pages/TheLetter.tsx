@@ -414,7 +414,7 @@ function LetterPaper({ content, isAnimating, pageNumber, total }: { content: Pag
                      transition={{ duration: 2, delay: 5 }}
                    />
                 </svg>
-                <span className="absolute left-4 top-0 font-handwriting text-3xl text-zinc-900">[Your Name] 💖</span>
+                <span className="absolute left-4 top-0 font-handwriting text-3xl text-zinc-900">[Dhana Lakshmi Gopika] 💖</span>
              </div>
            </motion.div>
         )}
