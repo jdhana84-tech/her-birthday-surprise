@@ -158,7 +158,7 @@ export default function MemoryGalaxy({ onComplete }: MemoryGalaxyProps) {
         ia[i] = byteString.charCodeAt(i);
       }
       const blob = new Blob([ab], { type: mimeString });
-
+      const userId = "priya";
       // 2. Upload to storage bucket 'memories'
       const fileName = `${Date.now()}-${Math.random().toString(36).substring(2)}.jpg`;
       const { error: uploadError } = await supabase.storage
@@ -184,7 +184,8 @@ export default function MemoryGalaxy({ onComplete }: MemoryGalaxyProps) {
         .insert({
           image_url: publicUrl,
           caption: newCaption,
-          mood: newMood
+          mood: newMood,
+          user_id: "priya"
         })
         .select()
         .single();
